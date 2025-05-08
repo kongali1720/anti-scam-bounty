@@ -1,7 +1,9 @@
 # 🕵️ anti-scam-bounty
 
 ## Struktur Direktori
+<<<<<<< HEAD
 =======
+>>>>>>> 263db44 (Save local changes before pulling)
 anti-scam-bounty/  
 ├── 📁 contracts/  
 │   └── 📄 BountyScam.sol  
@@ -110,7 +112,7 @@ npm install
 # Compile dan deploy kontrak
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network localhost
->>>>>>> 27e6549 (Update README.md final versi rapi)
+>>>>>>> 27e6549 (Update README.md final)
 
 📩 Kontak
 
@@ -132,7 +134,11 @@ Salam hangat,
 
 =======
 Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
+<<<<<<< HEAD
 👉 Support
+=======
+👉 [**Buy Me a Coffee**](https://www.paypal.me/bungtempong99)
+>>>>>>> 263db44 (Save local changes before pulling)
 
 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
 
