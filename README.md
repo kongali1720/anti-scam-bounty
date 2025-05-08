@@ -134,7 +134,7 @@ Salam hangat,
 Kongali1720
 
 >>>>>>> 36a4196 (Updated PayPal link with correct format)
-👉 PayPal: Buy Me a Coffee
+👉 PayPal: [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99)
 
 ### Next Steps:
 1. **Save the file** with the new PayPal link.
