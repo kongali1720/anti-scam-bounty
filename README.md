@@ -27,7 +27,7 @@ Platform berbasis smart contract untuk memberikan hadiah kepada komunitas yang m
 
 ## 📦 Instalasi
 
-```bash
+```
 npm install
 npx hardhat compile
 npx hardhat node
@@ -68,12 +68,26 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network <network_name>
 ---
 
-☕ Buy Me a Coffee
+☕ **Buy Me a Coffee**
 
 Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
-- **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
-📩 ### Kontak
+- **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99)
+
+---
+
+📩 **Kontak**
 
 - **Nama**: Kongali1720
 - **Email**: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
 - **GitHub**: [https://github.com/kongali1720](https://github.com/kongali1720)
+---
+
+🙏 **Terima Kasih**
+
+Terima kasih telah meluangkan waktu untuk melihat dan mencoba proyek ini.  
+Semoga bermanfaat dan bisa ikut berkontribusi dalam memerangi scam di dunia crypto.  
+Jika kamu suka, jangan ragu untuk memberi bintang ⭐ di repo ini dan membagikannya ke komunitasmu!
+
+Salam hangat,  
+**Kongali1720**
+
