@@ -100,7 +100,7 @@ Salam hangat,
 Kongali1720
 
 =======
-	git clone https://github.com/kongali1720/anti-scam-bounty.git
+	git clone https://github.com/kongali1720/anti-scam-bounty.git --
 	cd anti-scam-bounty
 
 2. Instal dependensi untuk frontend (React):
