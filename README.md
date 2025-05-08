@@ -128,4 +128,4 @@ Salam hangat,
 
 =======
 
-👉 [**Buy Me a Coffee**](https://www.paypal.com/paypalme/bungtempong99)
+- **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
