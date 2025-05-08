@@ -46,8 +46,6 @@ npm start
    ```bash
    npx hardhat node  
    npx hardhat run scripts/deploy.js --network localhost
-
-
 ---
 
 ☕ Buy Me a Coffee
