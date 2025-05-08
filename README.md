@@ -133,16 +133,10 @@ Salam hangat,
 **Kongali1720**
 
 =======
-Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
-<<<<<<< HEAD
-👉 Support
-=======
+👉 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
+
 👉 [**Buy Me a Coffee**](https://www.paypal.me/bungtempong99)
->>>>>>> 263db44 (Save local changes before pulling)
 
-Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
-
-[**Buy Me a Coffee**](https://www.paypal.me/bungtempong99)
 📩 Kontak
 
 Nama: Kongali1720
