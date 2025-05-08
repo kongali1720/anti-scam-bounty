@@ -1,4 +1,4 @@
-# anti-scam-bounty
+# 🕵️ anti-scam-bounty
 
 ## Struktur Direktori
 anti-scam-bounty/
@@ -14,6 +14,7 @@ anti-scam-bounty/
 ├── 📄 hardhat.config.js
 ├── 📄 README.md
 └── 📄 LICENSE
+
 # 🕵️ Anti-Scam Bounty
 
 Platform berbasis smart contract untuk memberikan hadiah kepada komunitas yang melaporkan proyek crypto scam.
