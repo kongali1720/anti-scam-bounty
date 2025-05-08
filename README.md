@@ -128,4 +128,8 @@ Salam hangat,
 
 =======
 
+<<<<<<< HEAD
 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
+=======
+👉 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99)
+>>>>>>> 3d8427b (Update PayPal link)
