@@ -1,20 +1,6 @@
 # 🕵️ anti-scam-bounty
 
 ## Struktur Direktori
-<<<<<<< HEAD
-anti-scam-bounty/
-├── 📁 contracts/
-│ └── 📄 BountyScam.sol
-├── 📁 scripts/
-│ └── 📄 deploy.js
-├── 📁 frontend/
-│ ├── 📁 src/
-│ │ └── 📄 App.js
-│ ├── 📄 package.json
-│ └── ... (file dan folder React lainnya)
-├── 📄 hardhat.config.js
-├── 📄 README.md
-└── 📄 LICENSE
 =======
 anti-scam-bounty/  
 ├── 📁 contracts/  
@@ -150,8 +136,7 @@ Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
 
 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
 
-Buy Me a Coffee
-
+[**Buy Me a Coffee**](https://www.paypal.me/bungtempong99)
 📩 Kontak
 
 Nama: Kongali1720
