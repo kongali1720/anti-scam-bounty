@@ -135,20 +135,4 @@ Salam hangat,
 =======
 👉 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
 
-👉 [**Buy Me a Coffee**](https://www.paypal.me/bungtempong99)
-
-📩 Kontak
-
-Nama: Kongali1720
-Email: kongali1720@gmail.com
-GitHub: https://github.com/kongali1720
-
-🙏 Terima Kasih
-
-Terima kasih telah meluangkan waktu untuk melihat dan mencoba proyek ini.
-Semoga bermanfaat dan bisa ikut berkontribusi dalam memerangi scam di dunia crypto.
-Jika kamu suka, jangan ragu untuk memberi bintang ⭐ di repo ini dan membagikannya ke komunitasmu!
-
-Salam hangat,
-Kongali1720
->>>>>>> 27e6549 (Update README.md final versi rapi)
+👉 👉 [**Buy Me a Coffee**](https://www.paypal.com/paypalme/bungtempong99)
