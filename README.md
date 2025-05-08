@@ -146,7 +146,11 @@ Salam hangat,
 
 =======
 Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
-👉 Buy Me a Coffee via PayPal
+👉 Support
+
+Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
+
+Buy Me a Coffee
 
 📩 Kontak
 
