@@ -73,7 +73,6 @@ npx hardhat run scripts/deploy.js --network <network_name>
 Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
 👉 [Buy Me a Coffee via PayPal](https://www.paypal.me/bungtempong99)
 
-
 ---
 
 📩 Kontak
