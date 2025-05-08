@@ -73,12 +73,6 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network <network_name>
 ---
 
-☕ **Buy Me a Coffee**
-
-Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
-👉 [Buy Me a Coffee via PayPal](https://www.paypal.me/bungtempong99)
-
----
 =======
 🧾 Deskripsi Proyek
 
@@ -133,6 +127,5 @@ Salam hangat,
 **Kongali1720**
 
 =======
-👉 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
 
-👉 👉 [**Buy Me a Coffee**](https://www.paypal.com/paypalme/bungtempong99)
+👉 [**Buy Me a Coffee**](https://www.paypal.com/paypalme/bungtempong99)
