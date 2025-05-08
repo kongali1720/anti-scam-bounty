@@ -1,83 +1,44 @@
-# 🕵️ anti-scam-bounty
+🕵️ anti-scam-bounty
+Struktur Direktori
 
-## Struktur Direktori
-<<<<<<< HEAD
-=======
->>>>>>> 263db44 (Save local changes before pulling)
-anti-scam-bounty/  
-├── 📁 contracts/  
-│   └── 📄 BountyScam.sol  
-├── 📁 scripts/  
-│   └── 📄 deploy.js  
-├── 📁 frontend/  
-│   ├── 📁 src/  
-│   │   └── 📄 App.js  
-│   ├── 📄 package.json  
-│   └── ... (file dan folder React lainnya)  
-├── 📄 hardhat.config.js  
-├── 📄 README.md  
-└── 📄 LICENSE  
->>>>>>> 27e6549 (Update README.md final versi rapi)
+anti-scam-bounty/
+├── 📁 contracts/
+│ └── 📄 BountyScam.sol
+├── 📁 scripts/
+│ └── 📄 deploy.js
+├── 📁 frontend/
+│ ├── 📁 src/
+│ │ └── 📄 App.js
+│ ├── 📄 package.json
+│ └── ... (file dan folder React lainnya)
+├── 📄 hardhat.config.js
+├── 📄 README.md
+└── 📄 LICENSE
 
-# 🕵️ Anti-Scam Bounty
-
+🕵️ Anti-Scam Bounty
 Platform berbasis smart contract untuk memberikan hadiah kepada komunitas yang melaporkan proyek crypto scam.
 
-## 📌 Fitur
+📌 Fitur
 
-- Lapor proyek scam  
-- Voting komunitas  
-- Hadiah otomatis untuk pelapor  
+    Lapor proyek scam
 
-## 📦 Instalasi
+    Voting komunitas
 
-```
-npm install
-npx hardhat compile
-npx hardhat node
-npx hardhat run scripts/deploy.js --network localhost
+    Hadiah otomatis untuk pelapor
 
-<<<<<<< HEAD
----
-## Deskripsi Proyek
+📦 Instalasi
+
+        npm install
+        npx hardhat compile
+        npx hardhat node
+        npx hardhat run scripts/deploy.js --network localhost
+
+Deskripsi Proyek
 
 Proyek ini adalah platform yang menggunakan smart contract untuk memberikan hadiah bagi siapa saja yang dapat menemukan atau melaporkan proyek crypto yang berpotensi menjadi penipuan (scam). Ini akan membantu mengurangi risiko penipuan di pasar crypto.
-
-## Persyaratan
+Persyaratan
 
 Untuk menjalankan proyek ini, kamu membutuhkan:
-
-- Node.js (versi 14 ke atas)
-- Hardhat
-- React.js
-- Web3.js
-- Ganache (untuk pengujian kontrak lokal)
-
-## Cara Menjalankan Proyek
-
-1. **Clone repository ini:**
-   ```bash
-   git clone https://github.com/kongali1720/anti-scam-bounty.git
-   cd anti-scam-bounty
-
---- Instal dependensi untuk frontend (React):
-cd frontend
-npm install
-
---- Instal dependensi untuk smart contract (Hardhat):
-cd ..
-npm install
-
---- Compile dan deploy kontrak:
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network <network_name>
----
-
-=======
-🧾 Deskripsi Proyek
-
-Proyek ini adalah platform yang menggunakan smart contract untuk memberikan hadiah bagi siapa saja yang dapat menemukan atau melaporkan proyek crypto yang berpotensi menjadi penipuan (scam). Ini akan membantu mengurangi risiko penipuan di pasar crypto.
-⚙️ Persyaratan
 
     Node.js (versi 14 ke atas)
 
@@ -89,47 +50,48 @@ Proyek ini adalah platform yang menggunakan smart contract untuk memberikan hadi
 
     Ganache (untuk pengujian kontrak lokal)
 
-🚀 Cara Menjalankan Proyek
+Cara Menjalankan Proyek
 
-# Clone repository ini
-git clone https://github.com/kongali1720/anti-scam-bounty.git
-cd anti-scam-bounty
+1. Clone repository ini:
 
-# Instal dependensi frontend (React)
-cd frontend
-npm install
+        git clone https://github.com/kongali1720/anti-scam-bounty.git
+        cd anti-scam-bounty
 
-# Instal dependensi backend (Hardhat)
-cd ..
-npm install
+2. Instal dependensi untuk frontend (React):
 
-# Compile dan deploy kontrak
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network localhost
->>>>>>> 27e6549 (Update README.md final)
+        cd frontend
+        npm install
 
-📩 Kontak
+3. Instal dependensi untuk smart contract (Hardhat):
 
-<<<<<<< HEAD
-Nama: Kongali1720  
-Email: kongali1720@gmail.com  
-GitHub: https://github.com/kongali1720
+        cd ..
+        npm install
 
----
+4. Compile dan deploy kontrak:
 
-🙏 **Terima Kasih**
+        npx hardhat compile
+        npx hardhat run scripts/deploy.js --network localhost
 
-Terima kasih telah meluangkan waktu untuk melihat dan mencoba proyek ini.  
-Semoga bermanfaat dan bisa ikut berkontribusi dalam memerangi scam di dunia crypto.  
-Jika kamu suka, jangan ragu untuk memberi bintang ⭐ di repo ini dan membagikannya ke komunitasmu!
+Kontak
 
-Salam hangat,  
-**Kongali1720**
+        Nama: Kongali1720
+        Email: kongali1720@gmail.com
+        GitHub: https://github.com/kongali1720
 
-=======
+🙏 Terima Kasih
 
-<<<<<<< HEAD
-- **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
-=======
-👉 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99)
->>>>>>> 3d8427b (Update PayPal link)
+        Terima kasih telah meluangkan waktu untuk melihat dan mencoba proyek ini.
+        Semoga bermanfaat dan bisa ikut berkontribusi dalam memerangi scam di dunia crypto.
+        Jika kamu suka, jangan ragu untuk memberi bintang ⭐ di repo ini dan membagikannya ke komunitasmu!
+
+Salam hangat,
+Kongali1720
+
+👉 PayPal: Buy Me a Coffee
+
+### Next Steps:
+1. **Save the file** with the new PayPal link.
+2. **Commit the changes**:
+   ```bash
+   git add README.md
+   git commit -m "Updated PayPal link with correct username"
